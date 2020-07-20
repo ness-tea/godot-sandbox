@@ -1,2 +1,2 @@
 # godot-demo
-Playing around with the GoDot engine.
+Playing around with the Godot engine.
